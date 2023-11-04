@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Photo List'),
+          title: Text('Photo Gallery App'),
         ),
         body: PhotoList(),
       ),
